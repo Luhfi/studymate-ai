@@ -48,7 +48,7 @@ Response Output
 
 ```bash
 # Clone repository
-git clone https://github.com/username/studymate-ai.git
+git clone https://github.com/Luhfi/studymate-ai.git
 cd studymate-ai
 
 # Buat virtual environment
